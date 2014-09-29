@@ -1,0 +1,20 @@
+{
+  "name": "Beautify",
+  "version": "0.0.1",
+  "description": "Minify SVG files with SVGO",
+  "main": "init.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franzheidl/svgmin.chocmixin.git"
+  },
+  "keywords": [
+  "svg",
+  "minify",
+  "optimize"
+  ],
+  "author": "Franz Heidl",
+  "license": "MIT",
+  "dependencies": {
+    "svgo": "0.4.5"
+  }
+}
